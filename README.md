@@ -33,7 +33,7 @@ Smart-Agriculture-Hub/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Smart-Agriculture-Hub.git
+git clone https://github.com/MohamedIKenedy/Smart-Agriculture-Hub.git
 cd Smart-Agriculture-Hub
 ```
 
