@@ -2,7 +2,7 @@
 
 A comprehensive machine learning platform for smart agriculture, combining crop recommendation and milk quality prediction systems.
 
-![Agriculture Banner](https://via.placeholder.com/800x200.png?text=Smart+Agriculture+Hub)
+![Agriculture Banner](https://www.synox.io/wp-content/uploads/2022/04/smart-farming-smart-agriculture-iot.jpg)
 
 ## 🚀 Features
 
