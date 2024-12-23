@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 👥 Authors
 
-- ThinMan101 - *Initial work*
+- Mohamed IFQIR - *Initial work*
 
 ## 🙏 Acknowledgments
 
