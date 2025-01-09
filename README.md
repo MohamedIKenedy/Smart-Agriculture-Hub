@@ -1,6 +1,7 @@
 # Smart Agriculture Hub 🌾
 
 A comprehensive machine learning platform for smart agriculture, combining crop recommendation and milk quality prediction systems.
+- Find a detailed report on MLflow for crop management at: http://127.0.0.1:5000/#/experiments/936200400489777151?viewStateShareKey=60b5838b3c07b10d688fd52b4dd6c37593b139dcfb12d21877e12fcb552682f6
 
 ![Agriculture Banner](https://www.synox.io/wp-content/uploads/2022/04/smart-farming-smart-agriculture-iot.jpg)
 
